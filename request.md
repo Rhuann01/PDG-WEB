@@ -1,0 +1,11 @@
+- [x] shacn
+- [x] mapcn
+- [] husky && config
+- [] lint-staged
+- [] prettier
+- [] git-commit-msg-linter
+- [] prisma
+- [] zod
+- [] Capacitor
+- [] react-hook-form
+- [] react-query
