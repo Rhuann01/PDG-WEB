@@ -1,9 +1,9 @@
 - [x] shacn
 - [x] mapcn
-- [] husky && config
-- [] lint-staged
-- [] prettier
-- [] git-commit-msg-linter
+- [x] husky && config
+- [x] lint-staged
+- [x] prettier
+- [x] git-commit-msg-linter
 - [] prisma
 - [] zod
 - [] Capacitor
