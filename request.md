@@ -4,7 +4,7 @@
 - [x] lint-staged
 - [x] prettier
 - [x] git-commit-msg-linter
-- [] prisma
+- [] i prisma & config prisma
 - [] zod
 - [] Capacitor
 - [] react-hook-form
